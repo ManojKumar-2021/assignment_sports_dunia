@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/assignment_sports_dunia/static/css/main.5bef5df1.css",
+    "main.js": "/assignment_sports_dunia/static/js/main.666a190d.js",
+    "static/js/239.dad8dbbd.chunk.js": "/assignment_sports_dunia/static/js/239.dad8dbbd.chunk.js",
+    "static/js/213.3ecdb927.chunk.js": "/assignment_sports_dunia/static/js/213.3ecdb927.chunk.js",
+    "static/js/455.99319efe.chunk.js": "/assignment_sports_dunia/static/js/455.99319efe.chunk.js",
+    "static/media/logo.svg": "/assignment_sports_dunia/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/assignment_sports_dunia/index.html",
+    "main.5bef5df1.css.map": "/assignment_sports_dunia/static/css/main.5bef5df1.css.map",
+    "main.666a190d.js.map": "/assignment_sports_dunia/static/js/main.666a190d.js.map",
+    "239.dad8dbbd.chunk.js.map": "/assignment_sports_dunia/static/js/239.dad8dbbd.chunk.js.map",
+    "213.3ecdb927.chunk.js.map": "/assignment_sports_dunia/static/js/213.3ecdb927.chunk.js.map",
+    "455.99319efe.chunk.js.map": "/assignment_sports_dunia/static/js/455.99319efe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bef5df1.css",
+    "static/js/main.666a190d.js"
+  ]
+}
