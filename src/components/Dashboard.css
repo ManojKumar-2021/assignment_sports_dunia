@@ -1,0 +1,32 @@
+.dashboard {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f9f9f9;
+    color: #000;
+    min-height: 100vh;
+  }
+  
+  .dark-mode {
+    background-color: #121212;
+    color: #fff;
+  }
+  
+  .dashboard-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .dark-mode-toggle {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .dark-mode-toggle:hover {
+    background-color: #0056b3;
+  }
+  

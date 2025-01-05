@@ -1,0 +1,81 @@
+/* Main Container */
+.signin-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f9;
+}
+
+/* Sign In Box */
+.signin-box {
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+}
+
+/* Header */
+.signin-header {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+/* Form Styling */
+.signin-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+/* Form Input Styling */
+.form-input {
+    padding: 12px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.form-input:focus {
+    border-color: #007bff;
+    outline: none;
+}
+
+/* Button Styling */
+.signin-button {
+    background-color: #007bff;
+    color: white;
+    padding: 12px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.signin-button:hover {
+    background-color: #0056b3;
+}
+
+/* Footer Text */
+.signin-footer {
+    margin-top: 20px;
+    font-size: 1rem;
+    color: #555;
+}
+
+.signin-footer a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.signin-footer a:hover {
+    text-decoration: underline;
+}
